@@ -1,5 +1,6 @@
-# V2Ray Heroku
+# Free network
 
+**原来的仓库被github封了https://github.com/nocsg/science-railway, 换一个zz正确的仓库名重新fork一遍**
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
 
 ## 概述
